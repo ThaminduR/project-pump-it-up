@@ -1,5 +1,6 @@
 # Pump it Up: Data Mining the Water Table
-# Git repo: [ThaminduR/project-pump-it-up (github.com)](https://github.com/ThaminduR/project-pump-it-up)
+
+Git repo: [ThaminduR/project-pump-it-up (github.com)](https://github.com/ThaminduR/project-pump-it-up)
 
 ## EDA and Preprocessing
 
@@ -62,5 +63,9 @@
 
 ## Final Rank
 
+![image](https://user-images.githubusercontent.com/45028707/133826047-28fdadb3-8afd-47df-964c-1497d725b9ef.png)
+
 
 ## Proof of Submission
+
+![image](https://user-images.githubusercontent.com/45028707/133826020-d81fd070-b9f9-446e-8090-d85636ee5f02.png)
